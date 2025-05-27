@@ -1,0 +1,12 @@
+# 忽略本地配置文件
+/config.yaml
+
+# 忽略编译产物
+*.exe
+*.dll
+*.so
+*.a
+
+# 忽略IDE文件
+.vscode/
+.idea/

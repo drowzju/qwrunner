@@ -1,0 +1,3 @@
+DASHSCOPE_API_KEY: "your_api_key_here"
+default_model: "qwen-vl-max"
+api_endpoint: "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions"
